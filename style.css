@@ -1,0 +1,8 @@
+.navbar {
+background-color: white;
+}
+.navbar a:hover {
+background-color: #659DBD;
+    border-radius: 100px;
+    text-align: center;
+}
