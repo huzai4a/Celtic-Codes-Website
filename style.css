@@ -1,8 +1,12 @@
 .navbar {
 background-color: white;
+    text-align: center;
 }
 .navbar a:hover {
 background-color: #659DBD;
-    border-radius: 100px;
-    text-align: center;
+
+}
+.navbar a{
+background-color: white;
+border-radius: 100px;
 }
